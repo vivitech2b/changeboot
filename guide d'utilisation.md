@@ -28,3 +28,13 @@ C’est très simple à faire !
 ## Première partie : installer HackBGRT
 
 HackBGRT est un petit programme qui va modifier votre BIOS pour afficher une image personnelle. 
+
+Pour le télécharger, cliquez sur la page "Télécharger" en haut à droite !
+
+Vous allez arriver sur un site de MEGA.
+Cliquez sur "Télécharger" puis sur "Télécharger sous forme de fichier ZIP"
+
+Accédez à votre dossier de téléchargements, et décompressez le fichier !
+
+Double-cliquez sur le fichier `setup.exe` de votre dossier.
+Autorisez tous les accès. 
